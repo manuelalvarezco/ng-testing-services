@@ -17,7 +17,7 @@ Run `npm i karma-mocha-reporter --save-dev` to execute the unit tests via mocha
 
 ## Config karma-mocha-reporter
 
-Run `npm i karma-mocha-reporter --save-dev` to execute the unit tests via mocha
+Run `npm i karma-mocha-reporter --save-dev`
 
 plugins: [
       ...,
@@ -25,3 +25,7 @@ plugins: [
 ],
 
 reporters: ['mocha']
+
+## Instalation @faker-js to generate mocks
+
+Run ` npm i @faker-js/faker --save-dev `

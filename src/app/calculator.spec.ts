@@ -2,7 +2,7 @@ import { Calculator } from './calculator';
 
 describe('Test for calculator', () => {
 
-  fdescribe('Test for #multiply', () => {
+  describe('Test for #multiply', () => {
 
     it('#multiply should return a nine', () => {
       // Arrange
